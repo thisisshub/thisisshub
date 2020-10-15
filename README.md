@@ -27,6 +27,10 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=thisisshub&show_icons=true" alt="thisisshub" /></p>
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
+
 <p align="center">
 <a href="https://codepen.io/thisisshub" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="thisisshub" height="30" width="30" /></a>
 <a href="https://dev.to/thisisshub" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="thisisshub" height="30" width="30" /></a>
