@@ -9,7 +9,7 @@ on:
 jobs:
   update-readme:
     name: README
-    runs-on: garuda-linux
+    runs-on: ubuntu-latest
     steps:
       - uses: thisisshub/waka-readme@master
         with:
