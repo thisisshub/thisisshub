@@ -28,6 +28,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=thisisshub&show_icons=true" alt="thisisshub" /></p>
 
 <!--START_SECTION:waka-->
+<img src="https://github.com/thisisshub/thisisshub/blob/master/images/stat.svg" alt="Alternative Text"/>
 <!--END_SECTION:waka-->
 
 
