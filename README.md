@@ -74,5 +74,5 @@ Show some ❤️ by starring some of the repositories!
 
 [website]: http://thisisshub.github.io
 [instagram]: https://www.instagram.com/imnotshub
-[linkedin]: https://www.linkedin.com/in/bilgehan-geçici-8b368614a/
+[linkedin]: https://www.linkedin.com/in/shubhashish-dixit-81629a186/
 [Spotify]: https://open.spotify.com/user/o9hka6wmrpji6v6ufyq30bv6i
